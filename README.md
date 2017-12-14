@@ -1,5 +1,8 @@
 # Netflixer
 
+Work in progress
+
+
 Google Chrome extension
 
 Adds IMDb and Metascore ratings to Netflix.
